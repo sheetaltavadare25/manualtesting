@@ -1,0 +1,30 @@
+1. What is a Git repository?
+A Git repository stores a project's files and revision history and facilitates version control by tracking changes made over time. It can be located locally within a folder on your device or an online platform like GitHub. This enables users to collaborate, revert to previous versions, and efficiently manage project development using commands like commit, push, and pull.
+
+2. How does Git work?
+Git operates by recording changes made to files and directories in a project, capturing snapshots of its evolving condition. Users can oversee alterations, create branches for simultaneous development, merge branches, and revert to previous states if required. It also promotes collaboration and ensures effective version control in software development endeavors.
+
+3. What is git add?
+The git add command is used in Git to stage changes for inclusion in the next commit. It prepares modifications, additions, or deletions made to files in the working directory, marking them to be included in the upcoming commit snapshot. Note this command does not actually commit the changes but prepares them for staging.
+
+4. What is git push?
+The git push command is used in Git to upload local repository content to a remote repository. It transfers committed changes from the local repository to a remote one, typically on a server like GitHub or GitLab. This command enables collaboration by allowing users to share their changes with others on the same project.
+
+You can learn more about Git push and pull in our separate tutorial.
+
+5. What is git status?
+The git status command displays the current state of the repository in Git. It provides information about which files have been modified, which are staged for the next commit, and which are untracked. It helps users track the progress of their work and identify any changes that need to be committed or staged.
+
+6. What is a commit in Git?
+A commit represents a snapshot of the changes made to files in a repository at a specific point in time. When you commit changes in Git, you are effectively saving the current state of your files and can provide a descriptive message that explains the changes made (which is recommended).
+
+Each commit creates a unique identifier, allowing you to track the history of changes in the repository. Commits play a crucial role in version control, as they provide a way to revert to previous states of the project, review the history of changes, and collaborate with others by sharing updates.
+
+Git cheat sheet
+
+Check out DataCamp’s Git Cheat Sheet to help with your interview prep
+
+7. What is branching in Git?
+Branching refers to the practice of diverging from the main line of development (typically called the "master" branch) to work on new features, fixes, or experiments without affecting the main codebase. It allows multiple parallel lines of development to coexist within the same repository.
+
+Each branch represents a separate line of development with its own set of commits, enabling developers to work on different features or fixes simultaneously. Branching facilitates collaboration, experimentation, and organization within a project, as changes made in one branch can be merged back into the main codebase once they are completed and tested.
