@@ -1,0 +1,67 @@
+1. What is Manual Software Testing?
+Manual Testing is a type of software testing process where test cases are executed manually without using any automated tool.
+
+The tester verifies the software functionality manually.
+The tester has a list of all the test cases that need to be manually tested. They go through each test case and manually verify the output.
+It is inefficient in comparison to automated testing, slow, and not repeatable in a consistent manner.
+Manual testing is prone to human misjudgment.
+2. What are the Advantages of Manual Testing?
+Better for Short-Lifecycle Projects: Manual testing is better for projects with short life cycles.
+Time and cost-efficiency: It is better to opt for manual testing for small, easy projects to save time, money, and resources.
+A good product-oriented option for GUI testing: Manual testing can be done accurately for GUI Testing.
+Easy to learn: It is easy to learn for new testers.
+Uses human intelligence: Manual testing allows testers to use their higher cognitive abilities to detect errors. This helps them to find errors that may be missed during automated testing.
+Detect errors outside the code: Manual testing helps testers to locate bugs that do not affect the code such as server response time.
+3. What are the Drawbacks of Manual Testing?
+Time-consuming: Manual testing requires time as the tester executes test cases manually and testing complex programs could take some time.
+Human error: Manual testing is prone to human error. By making mistakes when executing test cases, testers may come up with erroneous results.
+Difficult to measure: It is difficult to assess the efficiency of the manual testing process as it is difficult to keep track of the quality of the test cases executed, errors discovered, and test coverage attained.
+Costly: Manual testing can be expensive, particularly for big, complex projects, or when frequent releases are required.
+4. List key challenges of Manual Testing.
+Below are some of the key challenges of manual testing:
+
+Lack of standard documentation: Lack of standard documentation to understand the application fully to have a better insight into the application makes it difficult for the tester to create test cases for manual testing efficiently.
+Unavailability of skilled testers: Manual testing depends on Human intelligence, and analytical skills to design test cases that can ensure the best coverage.
+Deciding test cases order: It is very important to prioritize, and categorize the test cases and decide the order in which to execute the test cases.
+Ability to know when to stop testing: A tester needs to have product-oriented knowledge and the ability to decide when to stop testing the application to save time and effort.
+5. How Manual Testing is different from Automated Testing?
+Manual testing is a software testing process in which a tester tests each test case one by one in an individual manner. Whereas in automated testing, the tester utilizes tools and scripts to automate testing efforts.
+
+Parameters
+
+Manual Testing
+
+Automated Testing
+
+Definition
+
+In manual testing, the tester executes test cases manually.
+
+In automated testing, the tester uses tools and scripts to automate the process of testing.
+
+Working
+
+Manual testing works by requiring analysts and QA engineers to be involved in everything right from test case creation to actual test execution.
+
+Automated testing involves testers writing test scripts that automate test case execution.
+
+Strength
+
+Manual testing is better at handling complex scenarios.
+
+Automated testing is much faster and covers many permutations.
+
+Weakness
+
+Manual testing is slow and tedious.
+
+Automated testing requires coding and test maintenance.
+
+Test coverage
+
+It isn’t easy to ensure sufficient test coverage.
+
+It is easy to ensure sufficient test coverage.
+
+6. Who is a Manual Tester?
+The manual tester is a professional who is responsible for conducting quality checks on the software applications without using automation tools. They are responsible for manually checking the software for errors and fixing them. They must have appropriate skills to be able to meet the company’s requirements.
